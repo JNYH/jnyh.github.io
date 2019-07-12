@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Z.W. Miller
+title:               JNYH
 tagline:             A Moderately Okay Data Science Blog
-url:                 http://zwmiller.github.io
+url:                 http://jnyh.github.io
 paginate:            2
 baseurl:             ""
 
@@ -17,14 +17,14 @@ sass:
 
 # About/contact
 author:
-  name:              Zach Miller
-  url:               https://twitter.com/zaglamir
-  email:             zach@thisismetis.com
+  name:              James Ng
+  url:               https://www.linkedin.com/in/james-ng-53332055/
+  email:             jnyh@yahoo.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/zwmiller
+  repo:              https://github.com/jnyh
 
 # Gems
 gems:
