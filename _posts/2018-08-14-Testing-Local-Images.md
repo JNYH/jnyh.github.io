@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zach's Test Post
+title: JNYH's Test Post
 ---
 
 This is a test post. 
@@ -13,7 +13,7 @@ Finally, you must also keep the
 ```
 ---
 layout: post
-title: Zach's Test Post
+title: James's Test Post
 ---
 ```
 
